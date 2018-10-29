@@ -6,8 +6,8 @@
 }
 
 li > a.active {
-  color: #f97924 ;
-  background-color: cornflowerblue;
+  color: #2b3e50 ;
+  background-color: lightgray;
 }
 
 @media all and (max-width: 1200px) {
